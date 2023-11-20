@@ -1,0 +1,12 @@
+/* Placeholder styles for the Header component */
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
